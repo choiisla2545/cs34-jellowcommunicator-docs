@@ -10,7 +10,7 @@ The documentation team maintains:
 - An accessibility-focused communication approach
 - Simple and encouraging language for users, caregivers, teachers, and developers
 
----
+
 
 ## Voice Guidelines
 
@@ -26,7 +26,7 @@ The documentation team maintains:
 - Use active voice whenever possible.
 - Use passive voice only when the subject performing the action is unknown or not important.
 
----
+
 
 ## Terminology and Word Choice
 
@@ -80,7 +80,7 @@ The documentation should sound:
 
 Avoid language that feels overly formal, robotic, or technical.
 
----
+
 
 # Markdown Formatting Rules
 
@@ -153,7 +153,7 @@ Select `My Boards`
 Select My Boards
 ```
 
----
+
 
 ## Heading Levels
 
@@ -172,7 +172,7 @@ Maintain a consistent heading hierarchy.
 - Adding Icons
 - Editing Caregiver Information
 
----
+
 
 # Punctuation and Mechanics
 
@@ -182,7 +182,7 @@ The documentation for Jellow Communicator must follow consistent punctuation and
 
 - Open Settings to change the voice.
 
----
+
 
 ## Bullet List Standards
 
@@ -213,7 +213,7 @@ Use bullet lists for steps, features, and grouped information.
 - Select Save
 - return to the dashboard
 
----
+
 
 ## Oxford Comma
 
@@ -227,33 +227,33 @@ The app supports children, caregivers, and teachers.
 
 The app supports children, caregivers and teachers.
 
----
+
 
 ## Headings
 
 Use Sentence Case for all headings.
 
----
+
 
 ## Capitalization
 
 - Capitalize interface elements exactly as they appear in the application.
 - Avoid unnecessary capitalization in normal sentences.
 
----
+
 
 ## Quotation Marks
 
 - Use quotation marks only when directly quoting text or referring to exact words.
 - Avoid excessive quotation marks for emphasis.
 
----
+
 
 ## Exclamation Marks
 
 Use exclamation marks sparingly.
 
----
+
 
 ## Ellipses
 
@@ -267,7 +267,7 @@ Avoid unnecessary ellipses (`...`) because they may confuse beginner readers.
 
 - Select Next to continue...
 
----
+
 
 ## Numbers
 
@@ -295,7 +295,7 @@ Contractions are allowed when they improve readability and make the tone feel mo
 
 Avoid excessive informal language or slang.
 
----
+
 
 ## Accessibility Reminder
 
@@ -306,7 +306,7 @@ Punctuation and mechanics should always support:
 - Consistent formatting
 - Accessibility for beginner and non-technical users
 
----
+
 
 # Do’s and Don’ts
 
@@ -318,7 +318,7 @@ Punctuation and mechanics should always support:
 | Use “documentation” in formal writing | Use “docs” in documentation |
 | Explain acronyms on first mention | Use unexplained acronyms immediately |
 
----
+
 
 # Accessibility and Communication Goal
 
