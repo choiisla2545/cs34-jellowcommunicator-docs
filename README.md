@@ -108,7 +108,7 @@ Use bold formatting when referring to items users can directly see or tap in Jel
 ### Incorrect Example
 
 ```text
-This feature is very useful.
+This feature is very **useful**.
 ```
 
 ### Correct Example
