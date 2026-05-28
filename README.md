@@ -98,7 +98,7 @@ Use bold text only for:
 
 Use bold formatting when referring to items users can directly see or tap in Jellow.
 
-### Correct Examples test
+### Correct Examples
 
 - Open **Profile** to edit caregiver information.
 - Select **My Boards** to create a communication board.
