@@ -4,4 +4,3 @@
 - Admin manages categories
 - Adds or edits categories
 - Assign Icons
-hello 
