@@ -1,6 +1,6 @@
 ## Customizing Boards
 
-In creating a customized board, tap the three lines on top right. Then you'll see **My Board** there.
+In creating a customized board, tap the three lines on the top right. Then you'll see **My Board** there.
 
 Tap the **plus icon** to add a board then you'll be able to see different things on the side. Once you done it, you have to name your board! It can be for different scenarios like daily activities or going out!
 
@@ -16,7 +16,7 @@ When you have selected the icons, make sure to press **next** to apply those ico
 
 Tap **save** to apply the changes for your board. When it has been saves, you now have your customized board with the icons and words you have chosen.
 
-### Adding Changes in the Board
+### Adding Changes
 
 When you want to change things in your board.
 
