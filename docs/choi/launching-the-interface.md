@@ -2,7 +2,7 @@
 
 This guide explains how to launch the *Jellow Communicator* interface.
 
----
+
 
 ## Step 1: Open the Application
 
@@ -10,7 +10,7 @@ This guide explains how to launch the *Jellow Communicator* interface.
 2. Tap or click the icon.
 3. Wait for the application to load.
 
----
+
 
 ## Step 2: Access the Main Interface
 
@@ -21,14 +21,14 @@ This guide explains how to launch the *Jellow Communicator* interface.
    - Settings menu  
    - Optional keyboard feature  
 
----
+
 
 ## Step 3: Select a Communication Category
 
 1. Tap a category (e.g., Food, People, Activities).
 2. Browse available icons inside the category.
 
----
+
 
 ## Step 4: Create a Message
 
@@ -36,7 +36,7 @@ This guide explains how to launch the *Jellow Communicator* interface.
 2. Use expressive buttons if needed.
 3. Listen to the spoken output.
 
----
+
 
 ## Step 5: Access Additional Features (Optional)
 
@@ -49,14 +49,3 @@ This guide explains how to launch the *Jellow Communicator* interface.
 - Use extra tools:
   - Custom boards  
   - Keyboard input for text-to-speech  
-
----
-
-## Troubleshooting
-
-| Issue | Solution |
-|------|----------|
-| App does not open | Restart device and try again |
-| No sound output | Check volume and speech settings |
-| Missing icons | Verify selected category |
-| Wrong language | Change language in settings |
