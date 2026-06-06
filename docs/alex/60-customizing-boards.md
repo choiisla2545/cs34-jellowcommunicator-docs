@@ -1,7 +1,5 @@
 ## Customizing Boards
 
-- Access settings to create personal boards and organize your favorite icons.
-
 In creating a customized board, tap the three lines on top right. Then you'll see **My Board** there.
 
 Tap the **plus icon** to add a board then you'll be able to see different things on the side. Once you done it, you have to name your board! It can be for different scenarios like daily activities or going out!
