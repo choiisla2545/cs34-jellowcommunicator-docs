@@ -29,7 +29,6 @@ Category buttons contain groups of related vocabulary and concepts. Selecting a 
 - Helps users answer questions quickly.
 - Can be combined with category icons to form complete messages.
 
-**Example:** *"Yes, I want food."*
 
 ---
 
@@ -38,7 +37,6 @@ Category buttons contain groups of related vocabulary and concepts. Selecting a 
 - Used to indicate disagreement, refusal, or negation.
 - Allows users to reject options or express dislike.
 
-**Example:** *"No, I do not want that."*
 
 ---
 
@@ -47,7 +45,6 @@ Category buttons contain groups of related vocabulary and concepts. Selecting a 
 - Used to express positive emotions.
 - Indicates enjoyment, satisfaction, or excitement.
 
-**Example:** *"I am happy about this activity."*
 
 ---
 
@@ -56,8 +53,6 @@ Category buttons contain groups of related vocabulary and concepts. Selecting a 
 - Used to communicate sadness, disappointment, or discomfort.
 - Helps users express emotional needs.
 
-**Example:** *"I am sad."*
-
 ---
 
 ## 6. Need Button
@@ -65,16 +60,12 @@ Category buttons contain groups of related vocabulary and concepts. Selecting a 
 - Used to communicate necessities or urgent requirements.
 - Often paired with category icons.
 
-**Example:** *"I need water."*
-
 ---
 
 ## 7. Want Button
 
 - Used to communicate preferences or desires.
 - Allows users to request items, activities, or assistance.
-
-**Example:** *"I want to play."*
 
 ---
 
