@@ -1,8 +1,8 @@
-## Sentence Construction Logic for Jellow
-1. Receive user input from icon selections or keyboard entries.
-2. Identify the vocabulary item associated with each selection.
-3. Add selected items to the sentence bar. 
-4. Arrange items in the order selected. 
-5. Convert icons into text
-6. Combine the text into a complete message.
-7. Send the message to the tex-to-speech engine.
+## How Jellow Builds a Message
+The user taps icons or types words using the keyboard.
+Jellow recognizes the words or meanings linked to each selection.
+The selected words or icons are added to the sentence bar.
+The words are placed in the same order they were chosen.
+Jellow changes the icons into written text.
+The text is combined to create a complete message.
+The message is then sent to the text-to-speech feature, which reads it aloud.
