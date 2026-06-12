@@ -93,6 +93,7 @@ If you cannot find the picture you need, you can create your own custom icon.
 10. Tap **Save** to create and add the custom icon.
 
 The custom icon will be added to the board and can be used alongside the existing icons.
+
 *Tip:* Choose clear and easy-to-recognize photos so children can quickly find and use the icon.
 
 ### Removing a Custom Icon
@@ -106,4 +107,5 @@ You can remove a custom icon if it is no longer needed.
 5. Tap **Save** to apply the changes.
 
 The custom icon will be removed from the board.
+
 *Note:* Removing a custom icon will not affect any other icons on the board.
