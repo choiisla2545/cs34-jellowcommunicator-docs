@@ -1,8 +1,8 @@
-##Board Customization
+## Board Customization
 
 Custom boards help you create communication boards that match daily activities, interests, and communication needs. You can add pictures and words that are meaningful to you, making it easier for you to communicate.
 
-###Creating a Custom Board
+### Creating a Custom Board
 
 You can create a new custom board by tapping the **+ (Add Board)** icon on the main screen.
 1. Tap the **+ (Add Board)** icon.
@@ -16,7 +16,7 @@ You can create a new custom board by tapping the **+ (Add Board)** icon on the m
 5. Tap **Continue** to create the board.
 The new board will be added to your list of custom boards.
 
-###Adding Icons to a Board
+### Adding Icons to a Board
 
 After creating a board, you can add pictures and words to help the child express their needs and ideas.
 1. Open the custom board you created.
@@ -27,14 +27,14 @@ After creating a board, you can add pictures and words to help the child express
 6. Tap **Save** to apply the changes.
 The selected icons will now appear on your custom board.
 
-###Viewing Your Custom Boards
+### Viewing Your Custom Boards
 
 To view your custom boards:
 1. Tap the **Menu** icon (three horizontal lines) in the upper-right corner of the screen.
 2. Select **My Boards**.
 All custom boards you have created will be displayed in the **My Boards** section.
 
-###Editing a Board
+### Editing a Board
 
 You can update a board at any time to better match the child's changing needs and interests.
 1. Open **My Boards**.
@@ -44,7 +44,7 @@ You can update a board at any time to better match the child's changing needs an
 5. Tap **Next** to preview the updated board.
 6. Tap **Save** to apply your changes.
 
-###Removing Icons
+### Removing Icons
 
 1. Open the board in **Edit Mode**.
 2. Find the **Added Icon category** to view the icons currently on the board.
@@ -53,7 +53,7 @@ You can update a board at any time to better match the child's changing needs an
 5. Tap **Save** to apply the changes.
 *Note:* Icons can only be removed one at a time.
 
-###Selecting Icons by Category
+### Selecting Icons by Category
 
 Categories make it easier to add groups of related icons to a board.
 1. Open the board in **Edit Mode**.
@@ -65,7 +65,7 @@ Categories make it easier to add groups of related icons to a board.
 7. Tap **Save** to apply the changes.
 *Remember:* The **Reset** button only clears the icons currently selected in a category. Icons that have already been added to the board will stay on the board until they are removed individually.
 
-###Adding a Custom Icon
+### Adding a Custom Icon
 
 If you cannot find the picture you need, you can create your own custom icon.
 1. Open the board in **Edit Mode**.
@@ -83,7 +83,7 @@ If you cannot find the picture you need, you can create your own custom icon.
 The custom icon will be added to the board and can be used alongside the existing icons.
 *Tip:* Choose clear and easy-to-recognize photos so children can quickly find and use the icon.
 
-###Removing a Custom Icon
+### Removing a Custom Icon
 
 You can remove a custom icon if it is no longer needed.
 1. Open the board in **Edit Mode**.
