@@ -7,11 +7,7 @@ Custom boards help you create communication boards that match daily activities, 
 You can create a new custom board by tapping the **+ (Add Board)** icon on the main screen.
 
 1. Tap the **+ (Add Board)** icon.
-2. Enter a name for the board. Examples include:
-- Daily Activities
-- School
-- Going Out
-- Favorite Foods
+2. Enter a name for the board. 
 3. Select a photo or image that represents the board.
 4. Choose the preferred language and accent settings, if available.
 5. Tap **Continue** to create the board.
