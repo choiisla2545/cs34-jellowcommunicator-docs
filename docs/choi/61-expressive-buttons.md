@@ -1,6 +1,6 @@
 # Guide to Jellow Communicator Board Buttons
 
-The Jellow Communicator Board uses a combination of **category buttons** and **expressive buttons** to help users create meaningful messages. Users first select a category and then choose an expressive button to communicate their needs, feelings, or intentions.
+The **Jellow Communicator Board** uses a combination of **category buttons** and **expressive buttons** to help users create meaningful messages. Users first select a category and then choose an expressive button to communicate their needs, feelings, or intentions.
 
 ## 1. Category Buttons
 
