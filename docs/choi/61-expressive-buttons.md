@@ -2,8 +2,6 @@
 
 The Jellow Communicator Board uses a combination of **category buttons** and **expressive buttons** to help users create meaningful messages. Users first select a category and then choose an expressive button to communicate their needs, feelings, or intentions.
 
----
-
 ## 1. Category Buttons
 
 Category buttons contain groups of related vocabulary and concepts. Selecting a category displays icons associated with that topic.
@@ -21,53 +19,36 @@ Category buttons contain groups of related vocabulary and concepts. Selecting a 
 
 **Purpose:** Helps users quickly find the words or concepts they want to communicate.
 
----
-
 ## 2. Yes Button
 
 - Used to indicate agreement or confirmation.
 - Helps users answer questions quickly.
 - Can be combined with category icons to form complete messages.
 
-
----
-
 ## 3. No Button
 
 - Used to indicate disagreement, refusal, or negation.
 - Allows users to reject options or express dislike.
-
-
----
 
 ## 4. Happy Button
 
 - Used to express positive emotions.
 - Indicates enjoyment, satisfaction, or excitement.
 
-
----
-
 ## 5. Sad Button
 
 - Used to communicate sadness, disappointment, or discomfort.
 - Helps users express emotional needs.
-
----
 
 ## 6. Need Button
 
 - Used to communicate necessities or urgent requirements.
 - Often paired with category icons.
 
----
-
 ## 7. Want Button
 
 - Used to communicate preferences or desires.
 - Allows users to request items, activities, or assistance.
-
----
 
 ## 8. Keyboard Button
 
@@ -75,23 +56,17 @@ Category buttons contain groups of related vocabulary and concepts. Selecting a 
 - Useful when the desired message is not available as an icon.
 - Typed text can be converted into speech output.
 
----
-
 ## 9. Speaker Button
 
 - Reads the selected message aloud.
 - Converts icons or typed text into spoken communication.
 - Enables interaction with listeners who may not understand the icon sequence.
 
----
-
 ## 10. Navigation Buttons
 
 - Used to move between categories and pages.
 - Help users access additional vocabulary and communication options.
 - Some categories may contain multiple levels of icons.
-
----
 
 # Creating a Message
 
