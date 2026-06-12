@@ -70,7 +70,7 @@ Category buttons contain groups of related vocabulary and concepts. Selecting a 
 
 # Creating a Message
 
-Follow these steps to create a message using the Jellow Communicator Board:
+Follow these steps to create a message using the **Jellow Communicator Board**:
 
 1. Select a **Category Button**.
 2. Choose the appropriate icon or concept.
