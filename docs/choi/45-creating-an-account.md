@@ -1,3 +1,7 @@
-# Launching the Interface
+# Registering for a Jellow Account
 
-## Step 1: Register 
+## To Register an Account this is the info that is needed
+- the Child's name (this is how jellow calls you)
+- the Caregiver's Contact Info
+- the Home Address
+- Select a Language
