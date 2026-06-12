@@ -1,45 +1,38 @@
 ## Troubleshooting
 
-If you encounter issues while launching or using the Jellow Communicator interface, refer to the solutions below:
+### Application Does Not Open
+- Close all background applications and try again.
+- Restart the device.
+- Reinstall the application if the issue persists.
 
-### 1. Application does not open
-- Close all background apps and try again
-- Restart the device
-- Reinstall the application if the issue persists
+### No Sound or Speech Output
+- Check that the device volume is turned up.
+- Ensure the device is not in silent or mute mode.
+- Verify that text-to-speech is enabled in the settings.
+- Try selecting a different voice option.
 
+### Icons or Interface Elements Are Missing
+- Refresh or restart the application.
+- Check whether a category filter is active.
+- Update the application to the latest version.
 
-### 2. No sound or speech output
-- Check if the device volume is turned up
-- Ensure the device is not in silent or mute mode
-- Go to settings and verify that text-to-speech is enabled
-- Try selecting a different voice option in settings
+### Interface Is Slow or Unresponsive
+- Close other running applications.
+- Restart the device.
+- Check available storage space.
 
+### Incorrect Language Is Displayed
+- Open **Settings**.
+- Select **Language** options.
+- Choose the correct language.
+- Restart the application if necessary.
 
-### 3. Icons or interface elements are missing
-- Refresh or restart the application
-- Check if a category filter is active
-- Ensure the app is updated to the latest version
+### Touch Input Is Not Responding
+- Clean the screen to remove dirt or moisture.
+- Restart the device.
+- Check the device's touch and accessibility settings.
 
-
-### 4. Interface is slow or unresponsive
-- Close other running apps to free memory
-- Restart the device
-- Check available storage space
-
-
-### 5. Incorrect language is displayed
-- Go to Settings
-- Select Language options
-- Choose the correct language and restart the app if needed
-
-
-### 6. Touch input is not responding properly
-- Clean the screen to remove dirt or moisture
-- Restart the device
-- Check device accessibility touch settings
-
-
-### 7. App crashes unexpectedly
-- Update the app to the latest version
-- Restart the device
-- Reinstall the application if crashes continue
+### Application Crashes Unexpectedly
+- Update the application to the latest version.
+- Restart the device.
+- Reinstall the application if crashes continue.
