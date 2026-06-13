@@ -1,70 +1,19 @@
 The **Jellow Communicator Board** uses a combination of **category buttons** and **expressive buttons** to help users create meaningful messages. Users first select a category and then choose an expressive button to communicate their needs, feelings, or intentions.
 
-## Category Buttons
+## Jellow Communicator Board Buttons
 
-Category buttons contain groups of related vocabulary and concepts. Selecting a category displays icons associated with that topic.
-
-### Common Categories
-- Food and Drinks
-- People
-- Feelings
-- Actions
-- Places
-- Objects
-- Help
-- Daily Activities
-- School or Learning Items
-
-**Purpose:** Helps users quickly find the words or concepts they want to communicate.
-
-## Yes Button
-
-- Used to indicate agreement or confirmation.
-- Helps users answer questions quickly.
-- Can be combined with category icons to form complete messages.
-
-## No Button
-
-- Used to indicate disagreement, refusal, or negation.
-- Allows users to reject options or express dislike.
-
-## Happy Button
-
-- Used to express positive emotions.
-- Indicates enjoyment, satisfaction, or excitement.
-
-## Sad Button
-
-- Used to communicate sadness, disappointment, or discomfort.
-- Helps users express emotional needs.
-
-## Need Button
-
-- Used to communicate necessities or urgent requirements.
-- Often paired with category icons.
-
-## Want Button
-
-- Used to communicate preferences or desires.
-- Allows users to request items, activities, or assistance.
-
-## Keyboard Button
-
-- Allows users to type custom words or sentences.
-- Useful when the desired message is not available as an icon.
-- Typed text can be converted into speech output.
-
-## Speaker Button
-
-- Reads the selected message aloud.
-- Converts icons or typed text into spoken communication.
-- Enables interaction with listeners who may not understand the icon sequence.
-
-## Navigation Buttons
-
-- Used to move between categories and pages.
-- Help users access additional vocabulary and communication options.
-- Some categories may contain multiple levels of icons.
+| Button | Description |
+|----------|-------------|
+| **Category Buttons** | Contains groups of related vocabulary and concepts. Selecting a category displays icons associated with that topic. Common categories include Food and Drinks, People, Feelings, Actions, Places, Objects, Help, Daily Activities, and School or Learning Items. |
+| **Yes Button** | Indicates agreement or confirmation. Can be used to answer questions and form complete messages. |
+| **No Button** | Indicates disagreement, refusal, or negation. Used to reject options or express dislike. |
+| **Happy Button** | Expresses positive emotions such as happiness, enjoyment, or excitement. |
+| **Sad Button** | Communicates sadness, disappointment, or discomfort. |
+| **Need Button** | Communicates necessities or urgent requirements. Often paired with category icons. |
+| **Want Button** | Communicates preferences, desires, or requests for items and activities. |
+| **Keyboard Button** | Allows users to type custom words or sentences that are not available as icons. |
+| **Speaker Button** | Reads the selected message aloud by converting icons or text into speech. |
+| **Navigation Buttons** | Moves between categories and pages to access additional vocabulary and communication options. |
 
 ## Creating a Message
 
