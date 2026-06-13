@@ -1,6 +1,6 @@
 ## Managing Icons
 
-### Removing Icons
+### Remove Icons
 
 1. Open the board in **Edit Mode**.
 2. Find the **Added Icon category** to view the icons currently on the board.
@@ -10,7 +10,7 @@
 
 *Note:* Icons can only be removed one at a time.
 
-### Selecting Icons by Category
+### Select Icons by Category
 
 Categories make it easier to add groups of related icons to a board.
 
@@ -24,7 +24,7 @@ Categories make it easier to add groups of related icons to a board.
 
 *Remember:* The **Reset** button only clears the icons currently selected in a category. Icons that have already been added to the board will stay on the board until they are removed individually.
 
-### Adding a Custom Icon
+### Add a Custom Icon
 
 If you cannot find the picture you need, you can create your own custom icon.
 
@@ -45,7 +45,7 @@ The custom icon will be added to the board and can be used alongside the existin
 
 *Tip:* Choose clear and easy-to-recognize photos so children can quickly find and use the icon.
 
-### Removing a Custom Icon
+### Remove a Custom Icon
 
 You can remove a custom icon if it is no longer needed.
 
