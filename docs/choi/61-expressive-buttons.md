@@ -66,7 +66,7 @@ Category buttons contain groups of related vocabulary and concepts. Selecting a 
 - Help users access additional vocabulary and communication options.
 - Some categories may contain multiple levels of icons.
 
-# Creating a Message
+## Creating a Message
 
 Follow these steps to create a message using the **Jellow Communicator Board**:
 
@@ -74,9 +74,3 @@ Follow these steps to create a message using the **Jellow Communicator Board**:
 2. Choose the appropriate icon or concept.
 3. Press an **Expressive Button** (Yes, No, Happy, Sad, Need, or Want).
 4. Press the **Speaker Button** to vocalize the message.
-
-### Example
-
-**Food Category → Want Button → Speaker Button**
-
-Output: *"I want food."*
