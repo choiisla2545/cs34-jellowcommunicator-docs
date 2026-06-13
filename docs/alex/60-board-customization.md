@@ -18,7 +18,7 @@ The new board will be added to your list of custom boards.
 
 ### Add Icons to a Board
 
-After creating a board, you can add pictures and words to help the child express their needs and ideas.
+After creating a board, you can add pictures and words to help the you express their needs and ideas.
 
 1. Open the custom board you created.
 2. Browse the available categories.
@@ -44,7 +44,7 @@ All custom boards you have created will be displayed in the **My Boards** sectio
 
 <img width="512" height="237" alt="IMG_1508" src="https://github.com/user-attachments/assets/efa4e934-bd9b-4bc8-a804-4518c3185b3b" />
 
-You can update a board at any time to better match the child's changing needs and interests.
+You can update a board at any time to better match the your changing needs and interests.
 
 1. Open **My Boards**.
 2. Tap the **Pencil (Edit)** icon to enter Edit Mode.
