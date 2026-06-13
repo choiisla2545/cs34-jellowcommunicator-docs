@@ -2,6 +2,8 @@
 
 ### Remove Icons
 
+<img width="512" height="237" alt="IMG_1513" src="https://github.com/user-attachments/assets/105661d7-1cd1-4050-972a-5de9789e243f" />
+
 1. Open the board in **Edit Mode**.
 2. Find the **Added Icon category** to view the icons currently on the board.
 3. Tap the **red remove icon** on the icon you want to remove.
@@ -11,6 +13,8 @@
 *Note:* Icons can only be removed one at a time.
 
 ### Select Icons by Category
+
+<img width="512" height="237" alt="IMG_1514" src="https://github.com/user-attachments/assets/7ec02d8f-744e-4e4b-bf5f-65d550bf241c" />
 
 Categories make it easier to add groups of related icons to a board.
 
@@ -25,6 +29,8 @@ Categories make it easier to add groups of related icons to a board.
 *Remember:* The **Reset** button only clears the icons currently selected in a category. Icons that have already been added to the board will stay on the board until they are removed individually.
 
 ### Add a Custom Icon
+
+<img width="512" height="237" alt="IMG_1516" src="https://github.com/user-attachments/assets/6d94ebe1-1c2a-456c-97e7-2f917927cfb2" />
 
 If you cannot find the picture you need, you can create your own custom icon.
 
@@ -43,9 +49,11 @@ If you cannot find the picture you need, you can create your own custom icon.
 
 The custom icon will be added to the board and can be used alongside the existing icons.
 
-*Tip:* Choose clear and easy-to-recognize photos so children can quickly find and use the icon.
+*Tip:* Choose clear and easy-to-recognize photos so you can quickly find and use the icon.
 
 ### Remove a Custom Icon
+
+<img width="512" height="237" alt="IMG_1517" src="https://github.com/user-attachments/assets/5b9a2e49-5fca-42f0-bf5b-cd148c8f0cc3" />
 
 You can remove a custom icon if it is no longer needed.
 
