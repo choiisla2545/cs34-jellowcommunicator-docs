@@ -4,6 +4,8 @@ You can simplify the board display to help children focus on fewer icons at a ti
 
 ### Adjust the Number of Icons Displayed
 
+<img width="512" height="237" alt="IMG_1509" src="https://github.com/user-attachments/assets/6be9a1b0-9357-40cf-b9be-3b3a6ddfef8e" />
+
 The board display can be adjusted to show fewer category icons on the screen at one time.
 
 1. Open the main screen.
@@ -16,6 +18,8 @@ A smaller number of icons may help children focus on specific choices, while a l
 
 ### Search for Categories and Sequences
 
+<img width="512" height="237" alt="IMG_1510" src="https://github.com/user-attachments/assets/0d19c6a5-fed3-4d57-af5a-fe218b9a3ba6" />
+
 The search feature helps administrators quickly locate categories, routines, or specific vocabulary.
 1. Tap the **Magnifying Glass (Search) icon**.
 2. Enter the name of a category, routine, or word.
@@ -23,6 +27,8 @@ The search feature helps administrators quickly locate categories, routines, or 
 The selected category or sequence will open automatically.
 
 ### Navigate Through Sequences
+
+<img width="512" height="237" alt="IMG_1511" src="https://github.com/user-attachments/assets/b6b983a8-5f98-4059-bf74-8123cc58d127" />
 
 Some categories contain step-by-step sequences that guide children through activities and routines.
 
