@@ -12,6 +12,8 @@ You can create a new custom board by tapping the **+ (Add Board)** icon on the m
 4. Choose the preferred language and accent settings, if available.
 5. Tap **Continue** to create the board.
 
+<img width="512" height="237" alt="IMG_1504" src="https://github.com/user-attachments/assets/2d3f3e4d-4fe4-496b-ba9b-8ff9e20ea5f8" />
+
 The new board will be added to your list of custom boards.
 
 ### Add Icons to a Board
