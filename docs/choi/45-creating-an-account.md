@@ -2,7 +2,7 @@
 
 To Register an Account this is the info that is needed
 
-- the Child's name (this is how jellow calls you)
+- the Child's name (this is how **Jellow** calls you)
 - the Caregiver's Contact Info
 - the Home Address
 
