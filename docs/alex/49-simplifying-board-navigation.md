@@ -35,6 +35,4 @@ This can help children follow routines and learn vocabulary in a structured way.
 
 ### Exiting a Category or Sequence
 
-To return to the previous screen:
-1. Tap the **Back Arrow** located beside the **Home** button.
-The application will return to the previous view.
+To return to the previous screen: Tap the **Back Arrow** located beside the **Home** button. The application will return to the previous view.
