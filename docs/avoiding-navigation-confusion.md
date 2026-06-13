@@ -1,4 +1,4 @@
-### Avoiding Navigation Confusion
+### Tips on how to Avoid Navigation Confusion
 
 If users feel lost or have difficulty finding icons or categories:
 
@@ -8,6 +8,4 @@ If users feel lost or have difficulty finding icons or categories:
 - Look for highlighted or active category indicators  
 - Use the search or keyboard feature (if available) for faster access  
 - Familiarize yourself with the layout before starting communication tasks  
-
-*Tip:*  
-Start with commonly used categories (e.g., Basic Needs, Feelings, Actions) before exploring advanced options.
+- Start with commonly used categories (e.g., Basic Needs, Feelings, Actions) before exploring advanced options.
