@@ -2,7 +2,7 @@
 
 Custom boards help you create communication boards that match daily activities, interests, and communication needs. You can add pictures and words that are meaningful to you, making it easier for you to communicate.
 
-### Creating a Custom Board
+### Create a Custom Board
 
 You can create a new custom board by tapping the **+ (Add Board)** icon on the main screen.
 
@@ -14,7 +14,7 @@ You can create a new custom board by tapping the **+ (Add Board)** icon on the m
 
 The new board will be added to your list of custom boards.
 
-### Adding Icons to a Board
+### Add Icons to a Board
 
 After creating a board, you can add pictures and words to help the child express their needs and ideas.
 
@@ -27,7 +27,7 @@ After creating a board, you can add pictures and words to help the child express
 
 The selected icons will now appear on your custom board.
 
-### Viewing Your Custom Boards
+### View Your Custom Boards
 
 To view your custom boards:
 
@@ -36,7 +36,7 @@ To view your custom boards:
 
 All custom boards you have created will be displayed in the **My Boards** section.
 
-### Editing a Board
+### Edit a Board
 
 You can update a board at any time to better match the child's changing needs and interests.
 
