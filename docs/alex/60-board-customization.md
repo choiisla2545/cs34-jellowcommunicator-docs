@@ -29,6 +29,8 @@ The selected icons will now appear on your custom board.
 
 ### View Your Custom Boards
 
+<img width="512" height="237" alt="IMG_1507" src="https://github.com/user-attachments/assets/ca3189ef-a8e2-4274-adbd-791ac9641d60" />
+
 To view your custom boards:
 
 1. Tap the **Menu** icon (three horizontal lines) in the upper-right corner of the screen.
@@ -37,6 +39,8 @@ To view your custom boards:
 All custom boards you have created will be displayed in the **My Boards** section.
 
 ### Edit a Board
+
+<img width="512" height="237" alt="IMG_1508" src="https://github.com/user-attachments/assets/efa4e934-bd9b-4bc8-a804-4518c3185b3b" />
 
 You can update a board at any time to better match the child's changing needs and interests.
 
