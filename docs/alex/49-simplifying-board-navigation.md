@@ -2,7 +2,7 @@
 
 You can simplify the board display to help children focus on fewer icons at a time. A simpler layout can make navigation easier and reduce distractions while supporting communication and learning.
 
-### Adjusting the Number of Icons Displayed
+### Adjust the Number of Icons Displayed
 
 The board display can be adjusted to show fewer category icons on the screen at one time.
 
@@ -14,15 +14,15 @@ A smaller number of icons may help children focus on specific choices, while a l
 
 *Note:* All category icons remain available. Additional categories can be viewed by swiping up or scrolling down.
 
-### Searching for Categories and Sequences
+### Search for Categories and Sequences
 
 The search feature helps administrators quickly locate categories, routines, or specific vocabulary.
-1. Tap the Magnifying Glass (Search) icon.
+1. Tap the **Magnifying Glass (Search) icon**.
 2. Enter the name of a category, routine, or word.
 3. Select the desired result from the search list.
 The selected category or sequence will open automatically.
 
-### Navigating Through Sequences
+### Navigate Through Sequences
 
 Some categories contain step-by-step sequences that guide children through activities and routines.
 
@@ -33,6 +33,6 @@ Some categories contain step-by-step sequences that guide children through activ
 
 This can help children follow routines and learn vocabulary in a structured way.
 
-### Exiting a Category or Sequence
+### Exit a Category or Sequence
 
 To return to the previous screen: Tap the **Back Arrow** located beside the **Home** button. The application will return to the previous view.
