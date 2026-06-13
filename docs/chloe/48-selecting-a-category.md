@@ -1,4 +1,6 @@
 ## Selecting a Category in Jellow
+Use categories to quickly find related words and pictures. Combine category icons with the expressive side buttons to create clearer and more complete messages.
+
 1. Open the **Jellow** app
 2. On the home screen, double tap a **category** <img width="512" height="237" alt="image" src="https://github.com/user-attachments/assets/93ce4724-c435-4104-9d20-4cb0f62be063" />
 
