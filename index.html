@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technical Documentation Hub</title>
+    <style>
+        :root {
+            --bg: #f8f9fa;
+            --text: #212529;
+            --card-bg: #ffffff;
+            --border: #e9ecef;
+            --accent: #0366d6;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background-color: var(--bg);
+            margin: 0;
+            padding: 2rem 1rem;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        header {
+            margin-bottom: 3rem;
+            border-bottom: 2px solid var(--border);
+            padding-bottom: 1.5rem;
+        }
+        h1 { font-size: 2.25rem; margin: 0 0 0.5rem 0; color: #1a1a1a; }
+        .subtitle { color: #6a737d; font-size: 1.1rem; margin: 0; }
+        
+        section { margin-bottom: 2.5rem; }
+        h2 { font-size: 1.5rem; color: #24292e; border-bottom: 1px solid var(--border); padding-bottom: 0.3rem; }
+        
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1rem;
+        }
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 1.5rem;
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            flex-direction: column;
+        }
+        .card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+            border-color: var(--accent);
+        }
+        .card h3 { margin: 0 0 0.5rem 0; color: var(--accent); font-size: 1.2rem; }
+        .card p { margin: 0; color: #586069; font-size: 0.95rem; }
+        
+        footer { margin-top: 4rem; text-align: center; color: #6a737d; font-size: 0.85rem; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>Jellow Documentation</h1>
+        <p class="subtitle">Welcome to Jellow Communicator User Guide.
+            This guide will help you navigate and utilize the features of Jellow Communicator effectively, providing step-by-step instructions and tips for a seamless communication experience. 
+            Use this guide to learn how to set up and use the app's features.
+        </p>
+    </header>
+
+    <main>
+     <section>
+<h2>Getting Started</h2>
+<div class="grid">
+ 
+<a href="docs/choi-45-using-creating-an-account.html" class="card">
+<h3>Creating an Account</h3>
+<p>Step-by-step guide to creating and managing a user account.</p>
+</a>
+
+<a href="docs/sami-59-choosing-the-language.html" class="card">
+<h3>Choosing the Language</h3>
+<p>Select and manage language preferences for communication.</p>
+</a>
+<a href="docs/sami-52-using-a-communication-board.html" class="card">
+<h3>Using a Communication Board</h3>
+<p>Overview of communication board features and workflows.</p>
+</a>
+</div>
+</section>
+
+<section>
+<h2>Communication Basics</h2>
+<div class="grid">
+<a href="docs/sami-53-building-the-message.html" class="card">
+<h3>Building the Message</h3>
+<p>Create messages efficiently using symbols, words, and phrases.</p>
+</a>
+<a href="docs/sami-62-using-the-keyboard.html" class="card">
+<h3>Using the Keyboard</h3>
+<p>Learn how to navigate and communicate using keyboard input.</p>
+</a>
+<a href="docs/choi-61-using-expressive-buttons-user-actions.html" class="card">
+<h3>Using Expressive Buttons</h3>
+<p>Learn how expressive buttons enhance communication and user actions.</p>
+</a>
+<a href="docs/chloe-58-using-speech-activation.html" class="card">
+<h3>Using Speech Activation</h3>
+<p>Enable and use speech-triggered communication features.</p>
+</a>
+</div>
+</section>
+
+<section>
+<h2>Navigation & Organization</h2>
+<div class="grid">
+<a href="docs/chloe-48-using-category-selection.html" class="card">
+<h3>Using Category Selection</h3>
+<p>Learn how to organize and access communication categories efficiently.</p>
+</a>
+<a href="docs/alex-44-managing-icons.html" class="card">
+<h3>Managing Icons</h3>
+<p>Add, edit, organize, and customize icons within the application.</p>
+</a>
+<a href="docs/alex-49-simplifying-board-navigation.html" class="card">
+<h3>Simplifying Board Navigation</h3>
+<p>Best practices for improving navigation between communication boards.</p>
+</a>
+<a href="docs/choi-55-using-avoiding-navigation-confusion.html" class="card">
+<h3>Avoiding Navigation Confusion</h3>
+<p>Strategies for creating intuitive navigation experiences.</p>
+</a>
+</div>
+</section>
+
+<section>
+<h2>Personalization & Customization</h2>
+<div class="grid">
+<a href="docs/alex-60-board-customization.html" class="card">
+<h3>Board Customization</h3>
+<p>Customize communication boards to match user preferences and needs.</p>
+</a>
+<a href="docs/chloe-47-using-voice-settings.html" class="card">
+<h3>Using Voice Settings</h3>
+<p>Configure voice options and personalize speech output settings.</p>
+</a>
+</div>
+</section>
+
+
+<section>
+<h2>Help & Troubleshooting</h2>
+<div class="grid">
+<a href="docs/choi-50-developing-troubleshooting.html" class="card">
+<h3>Developing Troubleshooting Skills</h3>
+<p>Common issues, diagnostics, and troubleshooting techniques.</p>
+</a>
+</div>
+</section>
+ 
+    </main>
+
+    <footer>
+        <p>Built with GitHub Pages &bull; Technical Writing Course</p>
+    </footer>
+</div>
+
+</body>
+</html>
